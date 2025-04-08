@@ -2,26 +2,50 @@
 {
   "0":{
   "id":"1",
-  "name":"MUZANGALA TV",
+  "name":"ORTM 1",
   "description":"1501",
-  "live_url":"https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1857134445.m3u8",
-  "thumbnail":"https://od.lk/s/M18yOTEwMzA1NThf/muzangalatv.jpeg",
+  "live_url":"http://69.64.57.208/ortm/playlist.m3u8",
+  "thumbnail":"https://od.lk/s/M18yNTkxOTUyMjdf/ortm.jpg",
   "categorie":"SPORTS"
   },
   "1":{
   "id": "2",
-  "name": "TVI AFRICA",
+  "name": "ORTM 2",
   "description": "1502",
-  "live_url": "https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNjE4MTcyNzRf/tviAfrica.jpg",
+  "live_url": "http://69.64.57.208/tm2/playlist.m3u8",
+  "thumbnail": "https://od.lk/s/M18yOTQ2MDk4NDNf/mali2.jpeg",
   "categorie": "SPORTS"
   },
   "2":{
   "id": "3",
-  "name": "KK TV",
+  "name": "TM1 TV",
   "description": "1503",
-  "live_url": "https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8",
-  "thumbnail": "https://od.lk/s/M18yOTM1NjYzODBf/kktv.jpg",
+  "live_url": "http://69.64.57.208/tm1/playlist.m3u8",
+  "thumbnail": "https://od.lk/s/M18yODcyMTYwMzRf/M7.png",
   "categorie": "SPORTS"
-  }
+  },
+  "3":{
+  "id": "4",
+  "name": "CHERIFLA TV",
+  "description": "1504",
+  "live_url": "http://69.64.57.208/cherifla/playlist.m3u8",
+  "thumbnail": "https://od.lk/s/M18yNjk1OTk2NThf/cherifla.png",
+  "categorie": "SPORTS"
+  },
+  "4":{
+  "id": "5",
+  "name": "AFRICABLE TV",
+  "description": "1505",
+  "live_url": "http://69.64.57.208/africable/playlist.m3u8",
+  "thumbnail": "https://od.lk/s/M18yODcyMTYwMzRf/M7.png",
+  "categorie": "SPORTS"
+  },
+  "5":{
+  "id": "6",
+  "name": "NIETA TV",
+  "description": "1506",
+  "live_url": "http://69.64.57.208/nieta/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODAzNTM3OTFf/nietatv.png",
+  "categorie": "SPORTS"
+  } 
 }
